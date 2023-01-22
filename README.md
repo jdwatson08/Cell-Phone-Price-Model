@@ -1,4 +1,4 @@
-# Cell-phone-model
+# Cell Phone Model
 <h2>Description </h2>
 <p>This model predicts the price of a multitude of cell phones based off of the phones model and specs. The predictions were made using a Ridge Regression Model.</p>
 
